@@ -1,0 +1,22 @@
+{
+  "name": "puppeteer-web-scraper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DevShashi1993/puppeteer-web-scraper.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DevShashi1993/puppeteer-web-scraper/issues"
+  },
+  "homepage": "https://github.com/DevShashi1993/puppeteer-web-scraper#readme",
+  "dependencies": {
+    "puppeteer": "^7.1.0"
+  }
+}
